@@ -51,7 +51,7 @@ registerBlockType( 'creacloud/block-creacloud', {
 			<div className={ props.className }>
 				<p>— Hello from the backend.</p>
 				<p>
-					CGB BLOCK: <code>capitainewp</code> is a new Gutenberg block
+					Creacloud BLOCK: <code>capitainewp</code> is a new Gutenberg block
 				</p>
 				<p>
 					It was created via{ ' ' }
